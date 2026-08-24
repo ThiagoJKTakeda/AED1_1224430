@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 24/08/2026
+Objetivo    : Fazer um conferidor de sudoku.
+Dificuldade : 
+Uso de IA   : 
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int valida_linhas(int sudoku[9][9]){
