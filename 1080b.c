@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : 24/08/2026
+Objetivo    : Encontrar o maior valor de um vetor.
+Dificuldade : Resolver o exercício usando ponteiros.
+Uso de IA   : 
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
