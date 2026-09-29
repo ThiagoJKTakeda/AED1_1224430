@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1110
+Data        : 29/09/2026
+Objetivo    : Fazer um jogo de cartas que descarte a carta do topo e jogue a seguinte para o fim.
+Dificuldade : Fazer o exercíciio usando listas encadeadas.
+Uso de IA   : O porquê de estarem ocorrendo certos erros no beecrowd.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
