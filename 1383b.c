@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 28/09/2026
+Objetivo    : Fazer um conferidor de sudoku.
+Dificuldade : Fazer o exercício utlizando alocação dinâmica de matrizes.
+Uso de IA   : Entender como aplicar alocação dinâmica de matrizes.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
