@@ -6,16 +6,11 @@ Problema    : https://judge.beecrowd.com/pt/problems/view/1068
 Data        : 01/10/2026
 Objetivo    : Fazer um conferidor de corretude de parentesis.
 Dificuldade : Entender como implementar a quantidade e posição corretas dos parenteses.
-Uso de IA   : 
+Uso de IA   : Realizar correções pontuais non código. 
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
-
-typedef struct{
-    char itens[1001];
-    int topo;
-}pilha;
 
 int Bem_Formada(char s[]){
     char *p;
