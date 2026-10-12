@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2448
+Data        : 12/10/2026
+Objetivo    : Calcular quanto tempo um carteiro leva para fazer uma certa quantidade de entrgas.
+Dificuldade : Entender a lógica de busca binária.
+Uso de IA   : Realizar correções pontuais no código. 
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
