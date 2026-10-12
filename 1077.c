@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1077
+Data        : 12/10/2026
+Objetivo    : Converter uma expressão na forma infixa para posfixa.
+Dificuldade : Fazer o exercíciio usando listas encadeadas.
+Uso de IA   : Entender melhor o funcionamento das listas encadeadas.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
