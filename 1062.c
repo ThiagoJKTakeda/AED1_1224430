@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1062
+Data        : 12/10/2026
+Objetivo    : Se ao empilhar uma sequencia é possível desempilha-la em uma certa sequencia desejada.
+Dificuldade : Entender a lógica de pilhas.
+Uso de IA   : Entender melhor como usar pilhas.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
