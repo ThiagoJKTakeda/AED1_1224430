@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Thiago Jun Kimura Takeda
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1610
+Data        : 17/11/2026
+Objetivo    : Saber se existe um loop na lista.
+Dificuldade : Aplicar o DFS.
+Uso de IA   : Entender como o DFS funciona.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
